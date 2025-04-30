@@ -1,3 +1,4 @@
+//Imports Java scanner for user input commands
 import java.util.Scanner;
 
 public class MyMidtermLabExam {
